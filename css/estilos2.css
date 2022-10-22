@@ -1,0 +1,7 @@
+body{
+    height: 400px;
+    background-image: url("https://media3.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=ecf05e47bfv8oaro9ttb7nge544hnqxk8nuczoia794e7tdl&rid=giphy.gif&ct=g");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
